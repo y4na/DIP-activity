@@ -22,3 +22,9 @@ C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\b
 C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\rotate-left.png
 C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\rotate-right.png
 C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\image.png
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.sourcelink.json
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\adjust.png
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\crop.png
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\diagonal.png
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\effects.png
+C:\Users\yanap\Documents\5. Code Project Files\c#\DIP activity\ImageProcessing\bin\Debug\net8.0-windows\assets\invert.png
